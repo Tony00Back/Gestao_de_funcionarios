@@ -1,0 +1,21 @@
+{'Codigo': 1, 'Nome': 'Carlos Mendes', 'Data': datetime.date(1999, 04, 20), 'Morada': 'Estalagem', 'Idade': 24, 'Telefone': 'aldfae2', 'email': 'carlos@gmail.com'}
+{'Codigo': 2, 'Nome': 'João Francisco', 'Data':  datetime.date(1998, 07, 23), 'Morada': 'Korea', 'Idade': 24, 'Telefone': '+24492323291', 'email': 'johnfrank@hotmail.com'}
+{'Codigo': 3, 'Nome': 'Maria de Almeida ', 'Data':  datetime.date(1989, 9, 23), 'Morada': 'Korea', 'Idade': 34, 'Telefone': '+24494365678', 'email': 'john@gmail.com'}
+{'Codigo': 4, 'Nome': 'Naldo Ngola', 'Data':  datetime.date(1989, 9, 23), 'Morada': 'Vila-alice', 'Idade': 24, 'Telefone': '+2449423006789', 'email': 'nngola@gmail.com'}
+{'Codigo': 5, 'Nome': 'Patrícia Bumba Viegas', 'Data':  datetime.date(1989, 9, 23), 'Morada': 'Mutamba', 'Idade': 32, 'Telefone': '+2449323650789', 'email': 'patriciabumba@hotmail.com'}
+{'Codigo': 6, 'Nome': 'Carla Maria Arnaldo', 'Data':  datetime.date(1989, 9, 23), 'Morada': 'Zango 4', 'Idade': 44, 'Telefone': '+2449221156709', 'email': 'mariacarla@gmail.com'}
+{'Codigo': 7, 'Nome': 'Pedro Dias Lopes', 'Data':  datetime.date(1989, 9, 23), 'Morada': 'Zango 0', 'Idade': 23, 'Telefone': '+2449113652787', 'email': 'pedrolopes@gmail.com'}
+{'Codigo': 8, 'Nome': 'Isabel Mubieno', 'Data':  datetime.date(1989, 9, 23), 'Morada': 'Kilamba', 'Idade': 54, 'Telefone': '+2449403456765', 'email': 'isamubieno00@gmail.com'}
+{'Codigo': 9, 'Nome': 'Peter Filipe', 'Data':  datetime.date(1991, 03, 27), 'Morada': 'Morro Bento', 'Idade': 31, 'Telefone': '+2449923455083', 'email': 'peterfilipeA@yahoo.com'} 
+{'Codigo': 10, 'Nome': 'Amarildo Martins', 'Data':  datetime.date(2001, 9, 23), 'Morada': 'Talatona', 'Idade': 22, 'Telefone': '+2449493426711', 'email': 'amarildomartins@hotmail.com'} 
+{'Codigo': 11, 'Nome': 'Joandra Kiteke Pedro', 'Data':  datetime.date(1979, 01, 12), 'Morada': 'Talatona', 'Idade': 19, 'Telefone': '+2449523456713', 'email': 'joanapedro@gmail.com'}
+{'Codigo': 12, 'Nome': 'Augusto Chipenda Ekuikui', 'Data':  datetime.date(1978, 2, 04), 'Morada': 'Benfica', 'Idade': 43, 'Telefone': '+2449533456790', 'email': 'augustochipenda@hotmail.com'} 
+{'Codigo': 13, 'Nome': 'Mário Augusto Reporte', 'Data':  datetime.date(2001, 9, 03), 'Morada': 'Palanca', 'Idade': 19, 'Telefone': '+2449333754004', 'email': 'marioreporte@yahoo.com'} 
+{'Codigo': 14, 'Nome': 'Filipe José Nteka', 'Data': '', 'Morada': 'Viana', 'Idade': 50, 'Telefone': '+2449123456789', 'email': 'filipenteka@gmail.com'}
+{'Codigo': 15, 'Nome': 'Jonas Agostinho Pena ', 'Data': datetime.date(1999, 9, 23), 'Morada': 'Congolenses', 'Idade':49,'Telefone':'+244951919122','email':'jonaspena@gmail.com'} 
+{'Codigo': 16, 'Nome': 'Paulo Caetano da Silva', 'Data': datetime.date(1988, 9, 23), 'Morada': 'golf 2', 'Idade': 25, 'Telefone': '+244943845732', 'email': 'paulocaetano@gmail.com'}
+{'Codigo': 17, 'Nome': 'Rosa Maria Albano', 'Data': datetime.date(1989, 9, 23), 'Morada': 'Marginal', 'Idade': 34, 'Telefone': '+244952678909', 'email': 'rosaalbano@yahoo.com'}
+{'Codigo': 18, 'Nome': 'Roberto Gomes Kamuenene', 'Data':  datetime.date(1989, 9, 23), 'Morada': 'Multi-perfil', 'Idade': 31, 'Telefone': '+244952788909', 'email': 'robertokamuenene@gmail.com'}
+{'Codigo': 19, 'Nome': 'Kimuenha Kassonge', 'Data':  datetime.date(1989, 9, 23), 'Morada': 'Catinton', 'Idade': 30, 'Telefone': '+244930097984', 'email': 'kimuenhakassonge@gmail.com'}{'Codigo': 20, 'Nome': 'adfaf', 'Data': None, 'Morada': 'golf ', 'Idade': 56, 'Telefone': '23232', 'email': 'adfaf'}
+{'Codigo': 20, 'Nome': 'adaf', 'Data': datetime.date(2000, 3, 3), 'Morada': 'Golf 2', 'Idade': 23, 'Telefone': '2234rf', 'email': 'adfaf'}
+{'Codigo': 21, 'Nome': 'Ant�nio Albano ', 'Data': datetime.date(1999, 3, 23), 'Morada': 'Golf 2', 'Idade': 24, 'Telefone': '935808983', 'email': 'antoniodala@gmail.com'}
